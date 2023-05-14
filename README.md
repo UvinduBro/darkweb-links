@@ -40,75 +40,77 @@ CATEGORIZED AND CHECKED LINKS.  IF SOME ARE DOWN I APOLOGIZE ITS JUST SO HARD TO
 * Dark News (forum) http://xhb4vpn4a67sug7t.onion/
 * Liberty blog (free blogs) http://crylibertytwta4s.onion/
 * Intel Exchange (forum) http://rrcc5uuudhh4oz3c.onion/
-GUROChan (message board) http://gurochanocizhuhg.onion/
-Maxima Culpa (virtual confessions) http://nsmgu2mglfj7za6s.onion/
-Onion DIR (links) http://chl7b5p6rr64po3s.onion/
-Leonhard Weese (personal blog) http://liongrasr5uy5roo.onion/
-YHIMA (links) http://ogbinmlotgjwgkeo.onion/
-Sanctioned Suicide (forum) http://suicideocymrgxq7.onion/
-anon confessions http://confessx3gx46lwg.onion/
-OnionNet (links news etc) http://ubbchzof2pxs4swi.onion/
-Surveilance Law http://7vrl523532rjjznj.onion/
-BLue Onion (books) http://blue3237xytrz5rk.onion/blueonion/
-The Hidden Forum http://ewd5a7hnvc4necnf.onion/index.php
-SImple Store http://dharyyzdhok5eudi.onion/store/
-Bad Ideas Forum http://7x5rg44gkhtovwjt.onion/forum/index.php
-FUD (discussion board) http://bssjumzkbj3vlhiy.onion/
-Hidden links http://hidhost5gk6w7ahf.onion/hidlinks/links.php
-Facebook on tor? https://facebookcorewwwi.onion/
-FBI Chan http://fbichanc6yfagl4l.onion/
-Readers Club http://c3jemx2ube5v5zpg.onion/
-Weblog http://6e3i6bqjgnmtn3fu.onion/
+* GUROChan (message board) http://gurochanocizhuhg.onion/
+* Maxima Culpa (virtual confessions) http://nsmgu2mglfj7za6s.onion/
+* Onion DIR (links) http://chl7b5p6rr64po3s.onion/
+* Leonhard Weese (personal blog) http://liongrasr5uy5roo.onion/
+* YHIMA (links) http://ogbinmlotgjwgkeo.onion/
+* Sanctioned Suicide (forum) http://suicideocymrgxq7.onion/
+* anon confessions http://confessx3gx46lwg.onion/
+* OnionNet (links news etc) http://ubbchzof2pxs4swi.onion/
+* Surveilance Law http://7vrl523532rjjznj.onion/
+* BLue Onion (books) http://blue3237xytrz5rk.onion/blueonion/
+* The Hidden Forum http://ewd5a7hnvc4necnf.onion/index.php
+* SImple Store http://dharyyzdhok5eudi.onion/store/
+* Bad Ideas Forum http://7x5rg44gkhtovwjt.onion/forum/index.php
+* FUD (discussion board) http://bssjumzkbj3vlhiy.onion/
+* Hidden links http://hidhost5gk6w7ahf.onion/hidlinks/links.php
+* Facebook on tor? https://facebookcorewwwi.onion/
+* FBI Chan http://fbichanc6yfagl4l.onion/
+* Readers Club http://c3jemx2ube5v5zpg.onion/
+* Weblog http://6e3i6bqjgnmtn3fu.onion/
 
-list of sorted deep web onion links
-SEARCH ENGINES
+# List of sorted deep web onion links
+### SEARCH ENGINES
 
-Torch http://xmh57jrzrnw6insl.onion
-Torch http://u7lqvkufrapz2ept.onion
-Grams http://grams7enufi7jmdl.onion
-Grams (caution) http://s42qgnh4kesd5odo.onion
-Seeks Search http://oq7hx5d4ip24ay2f.onion
-Not Evil http://hss3uro2hsxfogfq.onion
-Ahmia (also clearnet) http://msydqstlz2kzerdg.onion/search
-DuckDuckGo https://3g2upl4pq6kufc4m.onion
-El-Goog! http://hbzfev4o4cgfkimg.onion
-Searx http://lqdnpadpys4snom2.onion
-Searx http://searchb5a7tmimez.onion
-Searx http://ulrn6sryqaifefld.onion
-OSP Googolplex http://googolplexc324wu.onion
-IIVW http://llvwfy2hc2fbawzb.onion
-BTDigg DHT Search Engine http://btdigg63cdjmmmqj.onion
-Candle http://t7tvvkx5vc3cvj6l.onion
-WIKIS
+* Torch http://xmh57jrzrnw6insl.onion
+* Torch http://u7lqvkufrapz2ept.onion
+* Grams http://grams7enufi7jmdl.onion
+* Grams (caution) http://s42qgnh4kesd5odo.onion
+* Seeks Search http://oq7hx5d4ip24ay2f.onion
+* Not Evil http://hss3uro2hsxfogfq.onion
+* Ahmia (also clearnet) http://msydqstlz2kzerdg.onion/search
+* DuckDuckGo https://3g2upl4pq6kufc4m.onion
+* El-Goog! http://hbzfev4o4cgfkimg.onion
+* Searx http://lqdnpadpys4snom2.onion
+* Searx http://searchb5a7tmimez.onion
+* Searx http://ulrn6sryqaifefld.onion
+* OSP Googolplex http://googolplexc324wu.onion
+* IIVW http://llvwfy2hc2fbawzb.onion
+* BTDigg DHT Search Engine http://btdigg63cdjmmmqj.onion
+* Candle http://t7tvvkx5vc3cvj6l.onion
 
-Tor Wiki http://torwikignoueupfm.onion/index.php?title=Main_Page
-The Hidden Wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-The Hidden Wiki http://wikitjerrta4qgz4.onion
-The Hidden Wiki http://n6pbizsbykwxmydz.onion/index.php/Main_Page
-The Hidden Wiki http://thwikihlbdf6eyop.onion/wiki/index.php/Main_Page
-The Hidden Wiki http://kpvz7ki2lzvnwve7.onion/index.php/Main_Page
-The Hidden Wiki http://nqigfqrxnkwcqmiq.onion/wiki
-The Hidden Wiki http://wikitorcwogtsifs.onion/index.php/Main_Page
-The Hidden Wiki http://7uamutiih4fkxyol.onion/index.php/Main_Page
-Hidden Wiki ?? http://k2mlwxjrestnu32p.onion
-Hidden Wiki http://hwikis252zk2m3au.onion
-Hidden Wiki http://wikitjerm7hvsork.onion
-The Uncensored Hidden wiki http://uhwikih256ynt57t.onion/wiki/index.php/Main_Page
-The Uncensored Hidden wiki http://kpvz7vokigja2k5x.onion/wiki/index.php/Main_Page
-Tor Hidden Service Wiki http://hswiki2acitzsxbs.onion/doku.php
-All Your Wiki http://allyour4nert7pkh.onion:88/wiki/index.php?title=Main_Page
-Project PM http://projpmcxufvim7be.onion/wiki/Main_Page
-LulzWiki http://b6lmqk6ovmfhrm4a.onion/wiki/index.php?title=Main_Page
-CryptoParty Austria http://cmoqohtgyilgec7y.onion
-???????? ??? ????? http://buehmwfjrvyqdnrl.onion
-Vuze Wiki http://dr5aamfveql2b34p.onion
-D3xt3r01 Wiki http://pcl5dt2boqqvmpk7.onion/index.php?title=Main_Page
-????? http://fkzkqpxfvr7i5p4k.onion
-The Dark List http://uxxasdkkxtrzppvv.onion/index.php?title=Main_Page
-Foswiki http://wzvj76zosr22og7r.onion/wiki/bin/view/Main/HiddenStuff
-Jiskopedia http://zqktlwi4fecvo6ri.onion/wiki/Jiskopedia
-ET Wiki http://oletfvgk2xc3eq6z.onion
-Marketplaces and stores
+### WIKIS
+
+* Tor Wiki http://torwikignoueupfm.onion/index.php?title=Main_Page
+* The Hidden Wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+* The Hidden Wiki http://wikitjerrta4qgz4.onion
+* The Hidden Wiki http://n6pbizsbykwxmydz.onion/index.php/Main_Page
+* The Hidden Wiki http://thwikihlbdf6eyop.onion/wiki/index.php/Main_Page
+* The Hidden Wiki http://kpvz7ki2lzvnwve7.onion/index.php/Main_Page
+* The Hidden Wiki http://nqigfqrxnkwcqmiq.onion/wiki
+* The Hidden Wiki http://wikitorcwogtsifs.onion/index.php/Main_Page
+* The Hidden Wiki http://7uamutiih4fkxyol.onion/index.php/Main_Page
+* Hidden Wiki ?? http://k2mlwxjrestnu32p.onion
+* Hidden Wiki http://hwikis252zk2m3au.onion
+* Hidden Wiki http://wikitjerm7hvsork.onion
+* The Uncensored Hidden wiki http://uhwikih256ynt57t.onion/wiki/index.php/Main_Page
+* The Uncensored Hidden wiki http://kpvz7vokigja2k5x.onion/wiki/index.php/Main_Page
+* Tor Hidden Service Wiki http://hswiki2acitzsxbs.onion/doku.php
+* All Your Wiki http://allyour4nert7pkh.onion:88/wiki/index.php?title=Main_Page
+* Project PM http://projpmcxufvim7be.onion/wiki/Main_Page
+* LulzWiki http://b6lmqk6ovmfhrm4a.onion/wiki/index.php?title=Main_Page
+* CryptoParty Austria http://cmoqohtgyilgec7y.onion
+* ???????? ??? ????? http://buehmwfjrvyqdnrl.onion
+* Vuze Wiki http://dr5aamfveql2b34p.onion
+* D3xt3r01 Wiki http://pcl5dt2boqqvmpk7.onion/index.php?title=Main_Page
+* ????? http://fkzkqpxfvr7i5p4k.onion
+* The Dark List http://uxxasdkkxtrzppvv.onion/index.php?title=Main_Page
+* Foswiki http://wzvj76zosr22og7r.onion/wiki/bin/view/Main/HiddenStuff
+* Jiskopedia http://zqktlwi4fecvo6ri.onion/wiki/Jiskopedia
+* ET Wiki http://oletfvgk2xc3eq6z.onion
+
+### Marketplaces and stores
 
 Vault43 (review markets) http://vaulty2wxwm2ukf3.onion
 Grams Market Search http://grams7enufi7jmdl.onion/markets
