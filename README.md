@@ -4,42 +4,42 @@
 
 CATEGORIZED AND CHECKED LINKS.  IF SOME ARE DOWN I APOLOGIZE ITS JUST SO HARD TO KEEP UP WITH THEM, BUT FOR THE MOST PART THESE SHOULD ALL BE GOOD. BE CAREFUL
 
-The Hidden Wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-The Uncensored Hidden wiki http://uhwikih256ynt57t.onion/wiki/index.php/Main_Page
-Vault 43 (useful) http://vault43z5vxy3vn3.onion/
-Imperial Library of TOR http://xfmro77i3lixucja.onion/
-Yet another tor directory http://bdpuqvsqmphctrcs.onion/
-Grams (search) http://grams7enufi7jmdl.onion/
-Spreadit (looks alittle like reddit) http://jdl3nf2hr3ehzyoc.onion/
-Wizardry & Steamwork (search) http://kaarvixjxfdy2wv2.onion/
-Myles Braithwaite http://gvvsa367g2zkzjj3.onion/
-Dark Net Links http://torlinkbgs6aabns.onion/
-Nudist Paradise (site for nudists) http://qvchmzewlf4efhcw.onion/
-DeepWeb Ministries (religios site) http://hxnibog5m2ocjeef.onion/
-SIN Strategic INtelligence Network (be prepared for any situation) http://4iahqcjrtmxwofr6.onion/
-Add any link (links) http://vizpz65utiopch7t.onion/
-Shadow Life (news) http://shadow7jnzxjkvpz.onion/
-Usenet file search http://wbyi72yt6gitdcqd.onion/
-The Hub (forum) http://thehub7dnl5nmcz5.onion/
-Agora Forum http://lacbzxobeprssrfx.onion/
-Onion soup (links n stuff) http://soupksx6vqh3ydda.onion/
-TORUM (forum) http://torum4kqr55yqui6.onion/
-Overchan (alittle of everything it seems) http://oniichanylo2tsi4.onion/
-TORCH (search) http://xmh57jrzrnw6insl.onion/
-French IRC Tor http://fitwebwmjekqsyrw.onion/
-TORsearch http://kbhpodhnfxl3clb4.onion/
-Yacy (search) http://yacy2tp5a2dhywmx.onion/
-OnionDir (links) http://dirnxxdraygbifgc.onion/
-Burnout (links) http://burnoutxf6o2yvsw.onion/
-TOR Hidden Service (search) http://msydqstlz2kzerdg.onion/search/
-Q&A(like yahoo answers) http://pequ3i77q5l4w4sw.onion/
-Benjiís Blog http://sonntag6ej43fv2d.onion/en
-Secret Stash (blog) http://dn4hcr3qhlpaiygr.onion/
-Cruel Onion forum (forum for ìbad* things) http://cruel2ijkqggizy5.onion/forum/
-The Plague (links and things) http://zseijor556d5t4yf.onion/
-Dark News (forum) http://xhb4vpn4a67sug7t.onion/
-Liberty blog (free blogs) http://crylibertytwta4s.onion/
-Intel Exchange (forum) http://rrcc5uuudhh4oz3c.onion/
+* The Hidden Wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+* The Uncensored Hidden wiki http://uhwikih256ynt57t.onion/wiki/index.php/Main_Page
+* Vault 43 (useful) http://vault43z5vxy3vn3.onion/
+* Imperial Library of TOR http://xfmro77i3lixucja.onion/
+* Yet another tor directory http://bdpuqvsqmphctrcs.onion/
+* Grams (search) http://grams7enufi7jmdl.onion/
+* Spreadit (looks alittle like reddit) http://jdl3nf2hr3ehzyoc.onion/
+* Wizardry & Steamwork (search) http://kaarvixjxfdy2wv2.onion/
+* Myles Braithwaite http://gvvsa367g2zkzjj3.onion/
+* Dark Net Links http://torlinkbgs6aabns.onion/
+* Nudist Paradise (site for nudists) http://qvchmzewlf4efhcw.onion/
+* DeepWeb Ministries (religios site) http://hxnibog5m2ocjeef.onion/
+* SIN Strategic INtelligence Network (be prepared for any situation) http://4iahqcjrtmxwofr6.onion/
+* Add any link (links) http://vizpz65utiopch7t.onion/
+* Shadow Life (news) http://shadow7jnzxjkvpz.onion/
+* Usenet file search http://wbyi72yt6gitdcqd.onion/
+* The Hub (forum) http://thehub7dnl5nmcz5.onion/
+* Agora Forum http://lacbzxobeprssrfx.onion/
+* Onion soup (links n stuff) http://soupksx6vqh3ydda.onion/
+* TORUM (forum) http://torum4kqr55yqui6.onion/
+* Overchan (alittle of everything it seems) http://oniichanylo2tsi4.onion/
+* TORCH (search) http://xmh57jrzrnw6insl.onion/
+* French IRC Tor http://fitwebwmjekqsyrw.onion/
+* TORsearch http://kbhpodhnfxl3clb4.onion/
+* Yacy (search) http://yacy2tp5a2dhywmx.onion/
+* OnionDir (links) http://dirnxxdraygbifgc.onion/
+* Burnout (links) http://burnoutxf6o2yvsw.onion/
+* TOR Hidden Service (search) http://msydqstlz2kzerdg.onion/search/
+* Q&A(like yahoo answers) http://pequ3i77q5l4w4sw.onion/
+* Benjiís Blog http://sonntag6ej43fv2d.onion/en
+* Secret Stash (blog) http://dn4hcr3qhlpaiygr.onion/
+* Cruel Onion forum (forum for ìbad* things) http://cruel2ijkqggizy5.onion/forum/
+* The Plague (links and things) http://zseijor556d5t4yf.onion/
+* Dark News (forum) http://xhb4vpn4a67sug7t.onion/
+* Liberty blog (free blogs) http://crylibertytwta4s.onion/
+* Intel Exchange (forum) http://rrcc5uuudhh4oz3c.onion/
 GUROChan (message board) http://gurochanocizhuhg.onion/
 Maxima Culpa (virtual confessions) http://nsmgu2mglfj7za6s.onion/
 Onion DIR (links) http://chl7b5p6rr64po3s.onion/
@@ -1708,20 +1708,20 @@ http://cosmista6thgibvv.onion/ ? ilcosmista
 http://cosmistljwunnzgr.onion/ ? ilcosmista
 http://costeirahx33fpqu.onion/ ?
 http://costeiraumsbdt2q.onion/ ? costeira.i2p.onion ñ Servidor de upload e downloads de arquivos p˙blicos totalmente anÙnimo nas redes onion e I2P
-http://cowikieegygxfhnh.onion/ ? Cruel Onion Wiki | Main / Index
-http://cpais47rhszfekpn.onion/ ?
-http://cpartywvpihlabsy.onion/ ? crypty22ijtotell.onion
-http://cplanetajiftj5rs.onion/ ? PAYPAL
-http://cprice7yra52kxvz.onion/ ? Coin Price
-http://cqbexnyrbfllryae.onion/ ?
-http://cqxal2hyrtglzzot.onion/ ? Private Marketplace
-http://cqxalq3h7uynx7th.onion/ ? Private Marketplace
-http://cr.zp6hvmgpaucx2o63.onion/ ?
-http://cra7ia5ktgxxed65.onion/ ? Identification pls
-http://crack6o6lfptheho.onion/ ?
-http://crazy4m3oeqicbui.onion/ ? ????? ????????? ????????
-http://crdp2qimaec2es3x.onion/ ? Rayservers Hosted Domain
-http://crfrudzhbpynkmki.onion/ ?
-http://crimenc5wxi63f4r.onion/ ? CRIMENETWORK.BIZ
-http://crow6lupekunor5l.onion/ ? keysCrow: Anonymous 2-of-3 Multisig Bitcoin Escrow
-http://cruel2ijkqggizy5.onion/ ?
+* http://cowikieegygxfhnh.onion/ ? Cruel Onion Wiki | Main / Index
+* http://cpais47rhszfekpn.onion/ ?
+* http://cpartywvpihlabsy.onion/ ? crypty22ijtotell.onion
+* http://cplanetajiftj5rs.onion/ ? PAYPAL
+* http://cprice7yra52kxvz.onion/ ? Coin Price
+* http://cqbexnyrbfllryae.onion/ ?
+* http://cqxal2hyrtglzzot.onion/ ? Private Marketplace
+* http://cqxalq3h7uynx7th.onion/ ? Private Marketplace
+* http://cr.zp6hvmgpaucx2o63.onion/ ?
+* http://cra7ia5ktgxxed65.onion/ ? Identification pls
+* http://crack6o6lfptheho.onion/ ?
+* http://crazy4m3oeqicbui.onion/ ? ????? ????????? ????????
+* http://crdp2qimaec2es3x.onion/ ? Rayservers Hosted Domain
+* http://crfrudzhbpynkmki.onion/ ?
+* http://crimenc5wxi63f4r.onion/ ? CRIMENETWORK.BIZ
+* http://crow6lupekunor5l.onion/ ? keysCrow: Anonymous 2-of-3 Multisig Bitcoin Escrow
+* http://cruel2ijkqggizy5.onion/ ?
